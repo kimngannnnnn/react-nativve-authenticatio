@@ -19,6 +19,10 @@
     "firebase": "^10.8.1",
     "react": "18.2.0",
     "react-native": "0.73.4",
+    "tinhdv-face-api.js": "0.22.5",
+    "@khanhvan75846/khanhvan75846-contacts": "1.0.0",
+    "@phuonganh68142/react-native-colorpicker": "0.0.19",
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
     "react-redux": "^9.1.0"
   },
   "devDependencies": {
